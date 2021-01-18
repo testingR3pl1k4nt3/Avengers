@@ -2,7 +2,7 @@
 
 * Black panther
 * Black Widow
-* Capitán America
+* Capitán América
 * Capitán Marvel
 * Falcon
 * Hank Pym
@@ -17,4 +17,8 @@
 * Vision
 * Wasp
 * Antman
+<<<<<<< HEAD
 * Nick Fury
+=======
+* PENEMAN
+>>>>>>> 08bae716740e35abaa84f8fcff889658abc9fdb7
