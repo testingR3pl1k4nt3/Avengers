@@ -17,8 +17,5 @@
 * Vision
 * Wasp
 * Antman
-<<<<<<< HEAD
 * Nick Fury
-=======
-* PENEMAN
->>>>>>> 08bae716740e35abaa84f8fcff889658abc9fdb7
+* Iron Fist
